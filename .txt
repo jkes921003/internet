@@ -1,1 +1,2 @@
-1234654768
+git config --global user.name jkes921003
+git config --global user.email 921003jun@gmail.com
