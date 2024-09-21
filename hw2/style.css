@@ -6,7 +6,7 @@ header{
 }
 
 header h1{
-	
+	aspect-ratio: 1 / 1;
 	color: #ffffff;
 	position: absolute;
 	left: 120px;
@@ -14,8 +14,7 @@ header h1{
 	line-height: 140px;
 	background-image: url(Rumi_images/S__51027971.jpg);
 	background-position:center;
-	font-size: 30%;
-	width: 210px;
+	width: 30px;
 	text: indent -99999px; ;
 }
 
