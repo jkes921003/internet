@@ -18,9 +18,18 @@ main{
 }
 
 main section ul li{
+
 	display: inline;
 }
 
+main section ul li a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+main section ul li a:hover{
+	text-decoration: underline;
+}
 
 footer{
 	background-color: rgb(92, 69, 47);
