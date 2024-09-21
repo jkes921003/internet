@@ -42,6 +42,7 @@ main section ul li{
 }
 
 main section ul li a{
+	font-size: 42px;
 	color: #ffffff;
 	text-decoration: none;
 }
