@@ -26,19 +26,19 @@ h1,li {
 	padding: 0;
 }
 
-#nav {
+#vma {
 	float: right;
 	margin: 50px 10px 0 0;
 	font-size: 1.4em;
 }
 
  
-#nav li {
+#vma li {
 	display: inline;
 	margin: 0 0 0 20px;
 }
 
-#nav li a {
+#vma li a {
 	color: #fff;
 	text-decoration: none;
 	background: none;
