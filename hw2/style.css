@@ -21,7 +21,9 @@ main{
 	background-color: rgb(61, 61, 255);
 	
 }
-
+#nav{
+	margin: 0 0 0 0;
+}
 main section ul{
 	position:absolute;
 	line-height: 80px;
@@ -30,7 +32,6 @@ main section ul{
 }
 
 main section ul li{
-	float: initial;
 	display: inline;
 	margin-right: 4vw;
 }
