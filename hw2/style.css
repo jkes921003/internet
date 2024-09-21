@@ -22,6 +22,7 @@ main{
 	
 }
 #nav{
+	position:absolute;
 	margin: 0 0 0 0;
 }
 main section ul{
