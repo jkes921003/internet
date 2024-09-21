@@ -17,9 +17,13 @@ main{
 	
 }
 
+#nav{
+	display:inline;
+}
+
 main section ul{
 	position:absolute;
-	line-height: 80px;
+	line-height: 50px;
 	display: inline;
 }
 
