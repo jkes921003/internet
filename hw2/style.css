@@ -6,11 +6,15 @@ header{
 }
 
 header h1{
+	color: #ffffff;
 	position: absolute;
 	left: 120px;
 	top: 0;
 	line-height: 140px;
-	width: 100%;
+	background-image: url(Rumi\ images/S_51027971.jpg);
+	background-position:center;
+	width: 210px;
+	text: indent -99999px; ;
 }
 
 main{
