@@ -14,10 +14,26 @@ main{
 	height: 80px;
 	width: 100%;
 	background-color: rgb(61, 61, 255);
-
+	
 }
 
+#nav {
+	float: right;
+	margin: 50px 10px 0 0;
+	font-size: 1.4em;
+}
 
+ 
+#nav li {
+	display: inline;
+	margin: 0 0 0 20px;
+}
+
+#nav li a {
+	color: #fff;
+	text-decoration: none;
+	background: none;
+}
 
 
 footer{
