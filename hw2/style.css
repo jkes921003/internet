@@ -22,14 +22,11 @@ main{
 	
 }
 
-ul#nav{
-	float: initial;
-}
-
 main section ul{
 	position:absolute;
 	line-height: 50px;
 	display: inline;
+	float: initial;
 }
 
 main section ul li{
