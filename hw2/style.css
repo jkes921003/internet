@@ -19,6 +19,7 @@ main{
 
 main section ul li{
 	display: inline;
+	margin-right: 4vw;
 }
 
 main section ul li a{
