@@ -17,6 +17,12 @@ main{
 	
 }
 
+main section ul{
+	position:absolute;
+	line-height: 80px;
+	display: inline;
+}
+
 main section ul li{
 	display: inline;
 	margin-right: 4vw;
