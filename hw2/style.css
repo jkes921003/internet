@@ -5,6 +5,11 @@ header{
 
 }
 
+h1, h2, p, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
 main{
 	background-color: rgb(99, 206, 188);
 }
@@ -15,6 +20,10 @@ main{
 	width: 100%;
 	background-color: rgb(61, 61, 255);
 	
+}
+
+#nav{
+	float: initial;
 }
 
 main section ul{
