@@ -1,6 +1,6 @@
 header{
 	background-color: rgb(167, 159, 48);
-	height: 80px;
+	height: 140px;
 	width: 100%;
 
 }
@@ -11,6 +11,8 @@ main{
 
 
 .title{
+	height: 80px;
+	width: 100%;
 	background-color: rgb(61, 61, 255);
 
 }
