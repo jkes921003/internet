@@ -27,7 +27,7 @@ main{
 	display: flex;
 	position:absolute;
 	justify-content: center;
-	width: 100%;
+	
 }
 main section ul{
 	position:absolute;
