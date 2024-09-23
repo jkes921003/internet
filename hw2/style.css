@@ -56,7 +56,12 @@ main section ul li a:hover{
 div{
 	display: flex;
 }
-
+div h1 {
+	width: 30%;
+}
+div h2 {
+	width: 70%;
+}
 
 footer h1 {
 	background-color: rgb(92, 69, 47);
