@@ -10,7 +10,7 @@ body{
     margin: 0 auto;
 }
 header{
-    background: url("../images/tokyo.jpg");
+    background: url("images/tokyo.jpg");
     border: solid #fff 3px;
     padding: 5px 0px 10px 0px; 
 }
