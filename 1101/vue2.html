@@ -7,6 +7,9 @@
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 </head>
 <body>
+  <button @click="count++">
+    Count is: {{ count }}
+  </button>
   <div id="app">{{ message }}
     <button @click="count++">
       Count is: {{ count }}
